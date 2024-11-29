@@ -15,7 +15,7 @@ CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 
 
-API Link: [https://app.theneo.io/0950402d-a24c-49c4-9f69-4571eec54c7b/e-learning-api-documentation](https://app.theneo.io/0950402d-a24c-49c4-9f69-4571eec54c7b/e-learning-api-documentation)
+`API Link:` [https://app.theneo.io/0950402d-a24c-49c4-9f69-4571eec54c7b/e-learning-api-documentation](https://app.theneo.io/0950402d-a24c-49c4-9f69-4571eec54c7b/e-learning-api-documentation)   (copy and Paste in Browser)
 
 
 # `Live Demo: ` [https://e-learning-hf54.onrender.com](https://e-learning-hf54.onrender.com)
